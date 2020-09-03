@@ -1,1 +1,2 @@
 hello, world!
+it's good to be alive!
